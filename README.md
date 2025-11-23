@@ -104,7 +104,7 @@
 - [循环语句](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#循环语句)
   - [for 循环](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#for循环)
   - [while 循环](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#while循环)
-  - [do...while 循环](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#dowhile循环了解)
+  - [do...while 循环了解](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#dowhile循环了解)
   - [循环控制关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#循环控制关键字)
   - [死循环](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#死循环)
   - [嵌套循环](https://github.com/aurora-byte-x/JavaSE/blob/main/document/05_流程控制.md#嵌套循环)
@@ -127,11 +127,11 @@
   - [数组遍历](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#遍历数组)
   - [数组扩容](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#数组扩容)
   - [合并数组](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#合并数组)
-  - [数组越界异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#数组越界异常_arrayindexoutofboundsexception)
-  - [空指针异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#空指针异常_nullpointerexception)
+  - [数组越界异常_arrayindexoutofboundsexception](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#数组越界异常_arrayindexoutofboundsexception)
+  - [空指针异常_nullpointerexception](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#空指针异常_nullpointerexception)
 
 - [二维数组](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#二维数组)
-  - [二维数组的定义](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#二维数组的定义格式)
+  - [二维数组的定义格式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#二维数组的定义格式)
   - [二维数组长度](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#获取二维数组的长度)
   - [二维数组获取元素](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#获取二维数组中的元素)
   - [二维数组存储元素](https://github.com/aurora-byte-x/JavaSE/blob/main/document/06_数组.md#二维数组中存储元素)
@@ -144,19 +144,19 @@
 <summary>07_方法</summary>
 
 - [方法的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#方法的使用)
-  - [无参无返回值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#无参无返回值方法)
-  - [有参无返回值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#有参无返回值方法)
-  - [无参有返回值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#无参数有返回值方法)
-  - [有参有返回值](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#有参数有返回值方法)
-  - [形参与实参](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#形式参数和实际参数区别)
+  - [无参无返回值方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#无参无返回值方法)
+  - [有参无返回值方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#有参无返回值方法)
+  - [无参有返回值方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#无参数有返回值方法)
+  - [有参有返回值方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#有参数有返回值方法)
+  - [形式参数和实际参数区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#形式参数和实际参数区别)
 
 - [方法的注意事项](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#方法的注意事项)
 
 - [方法重载 Overload](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#方法的重载overload)
 
-- [方法参数传递机制](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#方法参数)
-  - [基本类型传参](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#基本数据类型做方法参数传递)
-  - [引用类型传参](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#引用数据类型做方法参数传递)
+- [方法参数](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#方法参数)
+  - [基本数据类型做方法参数传递](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#基本数据类型做方法参数传递)
+  - [引用数据类型做方法参数传递](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#引用数据类型做方法参数传递)
 
 - [命令行参数](https://github.com/aurora-byte-x/JavaSE/blob/main/document/07_方法.md#命令行参数)
 
@@ -170,9 +170,9 @@
 
 - [面向对象介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
 - [类与对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
-  - [类的组成：属性与行为](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类实体类class)
-  - [对象的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#对象)
-  - [匿名对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#匿名对象的使用)
+  - [类实体类class](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类实体类class)
+  - [对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#对象)
+  - [匿名对象的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#匿名对象的使用)
   - [成员变量与局部变量的区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#成员变量和局部变量的区别)
 
 - [static 静态关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static关键字)
