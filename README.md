@@ -185,7 +185,7 @@
   - [字符串拼接](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#字符串拼接)
 
 - [递归](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#递归)
-  - [递归基础](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#介绍和基本使用-1)
+  - [递归基础](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#介绍和基本使用)
   - [求阶乘](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#求阶乘)
   - [斐波那契数列](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#斐波那契数列)
 
