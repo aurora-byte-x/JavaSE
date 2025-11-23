@@ -168,20 +168,20 @@
 <details>
 <summary>08_面向对象</summary>
 
-- [面向对象介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
-- [类与对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
+- [类和对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
+- [类和对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类和对象)
   - [类实体类class](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#类实体类class)
   - [对象](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#对象)
   - [匿名对象的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#匿名对象的使用)
   - [成员变量与局部变量的区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#成员变量和局部变量的区别)
 
-- [static 静态关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static关键字)
-  - [静态成员特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static的介绍及基本使用)
-  - [static 的访问特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static修饰成员的访问特点)
-  - [工具类与 static](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#静态方法的使用)
+- [static关键字](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static关键字)
+  - [static的介绍及基本使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static的介绍及基本使用)
+  - [static修饰成员的访问特点](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#static修饰成员的访问特点)
+  - [静态方法的使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#静态方法的使用)
 
 - [可变参数](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#可变参数)
-  - [基本使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#介绍和基本使用)
+  - [介绍和基本使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#介绍和基本使用)
   - [字符串拼接](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#字符串拼接)
 
 - [递归](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#递归)
@@ -189,8 +189,8 @@
   - [求阶乘](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#求阶乘)
   - [斐波那契数列](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#斐波那契数列)
 
-- [数组算法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#数组常见算法)
-  - [数组反转](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#数组翻转)
+- [数组常见算法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#数组常见算法)
+  - [数组翻转](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#数组翻转)
   - [冒泡排序](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#冒泡排序)
 
 - [对象数组](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#对象数组)
