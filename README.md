@@ -328,7 +328,7 @@
 <details>
 <summary>17_权限修饰符 & final关键字 & 代码块</summary>
 
-- [四种权限修饰符的权限范围](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符的权限范围) :contentReference[oaicite:0]{index=0}
+- [四种权限修饰符的权限范围](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符的权限范围)
 - [四种权限修饰符](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#四种权限修饰符)
   - [public](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#public公共的)
   - [protected](https://github.com/aurora-byte-x/JavaSE/blob/main/document/17_权限修饰符&final关键字&代码块.md#proteted受保护的)
@@ -354,7 +354,7 @@
 <details>
 <summary>18_内部类</summary>
 
-- [内部类的概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#内部类的概念) :contentReference[oaicite:1]{index=1}
+- [内部类的概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#内部类的概念)
 - [静态成员内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#静态成员内部类)
 - [非静态成员内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#非静态成员内部类)
 - [局部内部类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/18_内部类.md#局部内部类)
@@ -374,7 +374,7 @@
 <details>
 <summary>19_API文档</summary>
 
-- [API 文档概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/19_API文档.md#api文档) :contentReference[oaicite:2]{index=2}
+- [API 文档概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/19_API文档.md#api文档)
 - [配置中文 API 文档](https://github.com/aurora-byte-x/JavaSE/blob/main/document/19_API文档.md#配置中文api文档)
 
 </details>
@@ -383,7 +383,7 @@
 <details>
 <summary>20_异常</summary>
 
-- [异常的概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常的概念) :contentReference[oaicite:3]{index=3}
+- [异常的概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#异常的概念)
 - [常见异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的异常)
   - [运行时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的运行时异常)
   - [编译时异常](https://github.com/aurora-byte-x/JavaSE/blob/main/document/20_异常.md#常见的编译时异常)
@@ -404,7 +404,7 @@
 <details>
 <summary>21_Object类</summary>
 
-- [Object 类介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/21_Object类.md#object类的介绍) :contentReference[oaicite:4]{index=4}
+- [Object 类介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/21_Object类.md#object类的介绍)
 - [toString 方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/21_Object类.md#tostring方法)
 - [equals 方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/21_Object类.md#equals方法)
 - [clone 方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/21_Object类.md#clone方法)
@@ -415,7 +415,7 @@
 <details>
 <summary>22_枚举和注解</summary>
 
-- [枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#枚举) :contentReference[oaicite:5]{index=5}
+- [枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#枚举)
   - [自定义实现枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#自定义实现枚举)
   - [enum 关键字实现枚举](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum关键字实现枚举)
   - [enum 本质](https://github.com/aurora-byte-x/JavaSE/blob/main/document/22_枚举和注解.md#enum枚举的本质)
@@ -435,7 +435,7 @@
 <details>
 <summary>23_常用类</summary>
 
-- [包装类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类) :contentReference[oaicite:0]{index=0}
+- [包装类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类)
   - [包装类介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的介绍)
   - [包装类分类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类的分类)
   - [包装类与基本类型转换](https://github.com/aurora-byte-x/JavaSE/blob/main/document/23_常用类.md#包装类和基本数据的转换)
