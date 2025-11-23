@@ -186,7 +186,7 @@
 
 - [递归](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#递归)
   - [递归基础](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#介绍和基本使用-1)
-  - [阶乘](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#求n（n的阶乘）
+  - [阶乘](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#求n!（n的阶乘）
   - [斐波那契数列](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#斐波那契数列)
 
 - [数组算法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/08_面向对象.md#数组常见算法)
