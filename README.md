@@ -1,5 +1,4 @@
-# JavaSE 学习
-## 还在学习中...
+# JavaSE 学习笔记
 ### content
 
 <details>
