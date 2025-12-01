@@ -577,3 +577,43 @@
   - [练习 7](https://github.com/aurora-byte-x/JavaSE/blob/main/document/24_集合.md#练习7)
 
 </details>
+
+
+<details>
+<summary>25_泛型</summary>
+
+- [为什么要用泛型](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#为什么要用泛型)
+  - [先看一个需求](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#先看一个需求)
+  - [泛型体验](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型体验)
+
+- [泛型介绍](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型介绍)
+
+- [泛型的语法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型的语法)
+  - [泛型的声明](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型的声明)
+  - [泛型的实例化](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型的实例化)
+  - [泛型使用示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型使用示例)
+  - [泛型使用的注意事项和细节](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型使用的注意事项和细节)
+
+- [泛型练习](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型练习)
+
+- [自定义泛型](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#自定义泛型)
+  - [自定义泛型类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#自定义泛型类)
+    - [基本定义与语法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#基本定义与语法)
+    - [泛型的使用细节与规则](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型的使用细节与规则)
+    - [示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#示例)
+  - [自定义泛型接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#自定义泛型接口)
+    - [基本定义与语法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#基本定义与语法-1)
+    - [细节与注意事项](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#细节与注意事项)
+    - [示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#示例-1)
+  - [自定义泛型方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#自定义泛型方法)
+    - [基本定义与语法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#基本定义与语法-2)
+    - [规则](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#规则)
+    - [示例](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#示例-2)
+    - [练习](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#练习)
+
+- [泛型的继承和通配符](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#泛型的继承和通配符)
+
+- [本章作业](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#本章作业)
+  - [作业1](https://github.com/aurora-byte-x/JavaSE/blob/main/document/25_泛型.md#作业1)
+
+</details>
