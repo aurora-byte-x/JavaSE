@@ -6,6 +6,7 @@ public class DrawCircle extends JFrame {
 
     //定义一个面板
     private MyPanel mp = null;
+    
 
     public DrawCircle() {   //构造器
         //初始化面板
