@@ -197,7 +197,6 @@
 
 </details>
 
-#### Java高级部分
 
 <details>
 <summary>09_封装</summary>
@@ -236,6 +235,7 @@
 
 </details>
 
+#### Java高级部分
 
 <details>
 <summary>11_继承</summary>
