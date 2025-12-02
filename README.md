@@ -1,5 +1,6 @@
 # JavaSE 学习笔记
 ### content
+#### Java基础部分
 
 <details>
 <summary>01_IDEA的卸载与安装</summary>
@@ -196,6 +197,7 @@
 
 </details>
 
+#### Java高级部分
 
 <details>
 <summary>09_封装</summary>
