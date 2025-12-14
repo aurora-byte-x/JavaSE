@@ -647,3 +647,44 @@
   - [以坦克大战的例子看三大核心要素](https://github.com/aurora-byte-x/JavaSE/blob/main/document/26_坦克大战.md#以坦克大战的例子看三大核心要素)
 
 </details>
+
+
+<details>
+<summary>27_多线程基础</summary>
+
+- [线程相关概念](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程相关概念)
+  - [程序](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#程序)
+  - [进程](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#进程)
+  - [线程](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程)
+  - [运行模式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#运行模式)
+  - [并发与并行机制](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#并发与并行机制)
+
+- [线程的基本使用](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程的基本使用)
+  - [创建线程的方式](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#创建线程的方式)
+    - [继承Thread类](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#继承thread类)
+    - [实现Runnable接口](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#实现runnable接口)
+    - [继承Thread和实现Runnable的区别](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#继承thread和实现runnable的区别)
+  - [线程终止](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程终止)
+  - [线程常用方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程常用方法)
+    - [基础常用方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#基础常用方法)
+    - [线程控制方法(yield/join)](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程控制方法)
+  - [用户线程和守护线程](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#用户线程和守护线程)
+
+- [线程的生命周期](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程的生命周期)
+  - [线程的六种状态](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程的六种状态)
+  - [线程状态转换图](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程状态转换图)
+
+- [Synchronized](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#synchronized)
+  - [线程同步机制](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程同步机制)
+  - [互斥锁](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#互斥锁)
+  - [Synchronized的具体用法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#synchronized的具体用法)
+    - [同步代码块](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#同步代码块)
+    - [同步方法](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#同步方法)
+
+- [线程的死锁](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#线程的死锁)
+
+- [释放锁](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#释放锁)
+
+- [练习](https://github.com/aurora-byte-x/JavaSE/blob/main/document/27_多线程基础.md#练习)
+
+</details>
