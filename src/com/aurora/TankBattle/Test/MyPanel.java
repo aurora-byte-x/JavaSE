@@ -39,7 +39,7 @@ public class MyPanel extends JPanel {
         g.fillOval(10, 150, 100, 60);
 
         //画图片
-        Image image = Toolkit.getDefaultToolkit().getImage(MyPanel.class.getResource("/img/picture.jpg"));
+        Image image = Toolkit.getDefaultToolkit().getImage(MyPanel.class.getResource("/img/source/shot.jpg"));
         g.drawImage(image, 150, 150, 300, 300, this);
 
         //画字符串
