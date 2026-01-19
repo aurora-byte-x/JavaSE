@@ -750,3 +750,47 @@
   - [作业3](https://github.com/aurora-byte-x/JavaSE/blob/main/document/28_IO流.md#作业3)
 
 </details>
+
+
+<details>
+<summary>29_反射</summary>
+
+- [一个需求引出反射](#一个需求引出反射)
+- [反射机制](#反射机制)
+  - [Java Reflection](#java-reflection)
+  - [Java 反射机制原理示意图](#java-反射机制原理示意图)
+  - [Java 反射机制可以完成的操作](#java-反射机制可以完成的操作)
+  - [反射相关的主要类](#反射相关的主要类)
+  - [反射的优缺点](#反射的优缺点)
+  - [反射调用的优化 _ 关闭访问检查](#反射调用的优化-_-关闭访问检查)
+- [Class类](#class类)
+  - [基本介绍](#基本介绍)
+  - [Class 类的常用方法](#class-类的常用方法)
+  - [获取 Class 类对象](#获取-class-类对象)
+  - [哪些类型有 Class 对象](#哪些类型有-class-对象)
+- [类加载](#类加载)
+  - [动态加载/静态加载](#动态加载静态加载)
+  - [类加载时机](#类加载时机)
+  - [类加载过程](#类加载过程)
+    - [加载(Loading)](#加载loading)
+    - [连接(Linking)](#连接linking)
+    - [初始化（Initialization）](#初始化initialization)
+- [通过反射获取类的结构信息](#通过反射获取类的结构信息)
+  - [Java.lang.Class 类](#javalangclass-类)
+  - [Java.lang.reflect.Field 类](#javalangreflectfield-类)
+  - [java.lang.reflect.Method 类](#javalangreflectmethod-类)
+  - [java.lang.reflect.Constructor 类](#javalangreflectconstructor-类)
+  - [代码示例](#代码示例)
+  - [注意](#注意)
+- [通过反射创建对象](#通过反射创建对象)
+  - [创建方式](#创建方式)
+  - [关键 API 说明](#关键-api-说明)
+  - [代码示例](#代码示例-1)
+- [通过反射访问类中的成员](#通过反射访问类中的成员)
+  - [访问属性](#访问属性)
+  - [访问方法](#访问方法)
+- [练习](#练习)
+  - [练习 1：通过反射修改私有成员变量](#练习-1通过反射修改私有成员变量)
+  - [练习 2：利用反射完成以下功能](#练习-2利用反射完成以下功能)
+
+</details>
